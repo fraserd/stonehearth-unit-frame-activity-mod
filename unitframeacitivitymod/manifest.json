@@ -1,0 +1,23 @@
+{
+    "info": {
+        "name": "Unit Frame Activity Mod",
+        "version": 3
+    },
+    "mixintos": {
+
+    },
+    "overrides": {
+
+    },
+    "ui": {
+        "html": [
+            "file(ui/game/unit_frame_activity/unit_frame_activity.html)"
+        ],
+        "js": [
+            "file(ui/game/unit_frame_activity/unit_frame_activity.js)"
+        ],
+        "less": [
+            "file(ui/game/unit_frame_activity/unit_frame_activity.less)"
+        ]
+    }
+}
