@@ -32,7 +32,6 @@
 
      init: function() {
          this._super();
-         var self = this;
      },
 
      _updateVisibility: function() {
